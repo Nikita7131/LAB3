@@ -1,3 +1,3 @@
 Lab3 
 
-<script src="https://gist.github.com/krushndayshmookh/3501d533d0e526268d91e7bdc3e2d4ce.js"></script>
+ ![alt tag](https://gist.githubusercontent.com/krushndayshmookh/9fb70798bb71b38fd7ec9cee788b8c7c/raw/4d74ce241b1a24864bbf9ea1733f8f142490a5c6/bongo-cat.gif) "Опису не буде")
